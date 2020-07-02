@@ -13,7 +13,8 @@ The objective of this project is to:
   1. apply Bayesian methods to determine whether elective induction reduces the occurance C-section and
   2. compare my (Bayesian) findings to those of the ARRIVE trial, which used classical statisical methods
 
-The hypotheses I am testing are:
-H_0:P(μ_Ind=μ_Mngt):  There is no difference in C-section incidient.
-H_1:P(μ_Ind>μ_Mngt):  Induction increases the incident of C-section.
-H_2:P(μ_Ind<μ_Mngt):  Induction reduces the incident of C-section.
+### IV. BAYESIAN ANALYSIS
+See the notebook for the analysis.
+
+### V. REFERENCES
+Grobman, WA et al. Labor Induction versus Expectant Management in Low-Risk Nulliparous Women. N Engl J Med 2018; 379:513-523 [paper](https://www.nejm.org/doi/full/10.1056/NEJMoa1800566)
