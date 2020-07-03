@@ -16,5 +16,10 @@ The objective of this project is to:
 ### IV. BAYESIAN ANALYSIS
 See the notebook for the analysis.
 
-### V. REFERENCES
+### V. CONCLUSIONS 
+The posterior distributions for the Induction and Management group are shown below with the mean percent (vertical dashed lines) and credible sets (horizontal solid lines) of C-sections. My results from the Bayesian analysis suggests that for first-time mothers who are at term and have no prior condition that makes them at risk for C-sections, they are (slightly) less likely to have a C-section if they proceed with induction. On a personal note, I was interested to do this analysis because I was 40 weeks pregnant at the time. For a post-labor update, I did opt to have an induction at 41 weeks and did not have a C-section.
+
+<img align="center" height="500" src="https://github.com/katannyak/Bayesian_Analysis_C-section_Rates/blob/master/img/posterior3.png">
+
+### VI.REFERENCES
 Grobman, WA et al. Labor Induction versus Expectant Management in Low-Risk Nulliparous Women. N Engl J Med 2018; 379:513-523 [paper](https://www.nejm.org/doi/full/10.1056/NEJMoa1800566)
