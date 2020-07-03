@@ -14,7 +14,7 @@ The objective of this project is to:
   2. compare my (Bayesian) findings to those of the ARRIVE trial, which used classical statisical methods
 
 ### IV. BAYESIAN ANALYSIS
-See the ##### [`notebook`](https://github.com/katannyak/Bayesian_Analysis_C-section_Rates/blob/master/Bayes_project.ipynb) for the analysis.
+See the [`notebook`](https://github.com/katannyak/Bayesian_Analysis_C-section_Rates/blob/master/Bayes_project.ipynb) for the analysis.
 
 ### V. CONCLUSIONS 
 The posterior distributions for the Induction and Management group are shown below with the mean percent (vertical dashed lines) and credible sets (horizontal solid lines) of C-sections. My results from the Bayesian analysis suggests that for first-time mothers who are at term and have no prior condition that makes them at risk for C-sections, they are (slightly) less likely to have a C-section if they proceed with induction. On a personal note, I was interested to do this analysis because I was 40 weeks pregnant at the time. For a post-labor update, I did opt to have an induction at 41 weeks and did not have a C-section.
