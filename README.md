@@ -1,6 +1,6 @@
 # A Bayesian Analysis of Cesarean sections rates caused by labor induction
 
-### I. SUMMARY OF PROJECT
+### I. SUMMARY
 In this project, I re-evaluate the results of the ARRIVE trial (Grobman, 2018) using a Bayesian approach. This study, published in the New England Journal of Medicine, examined, among many other outcomes, whether elective induction of labor compared to no induction in first-time mothers effected the occurance of cesarean section (C-section). The data was analyzed using classical statistical methods. Here, I examine the data using Bayesian inference and compare my results to those of the study. This study was of particular interest as I am 40 weeks pregnant (at the time of writing this report) and so I have a strong personal interest in the findings of this study and how the data was interpreted. C-section is a major surgery, often an unplanned emergency surgery, that is associated with increased rate of infection, a longer hospital stay and recovery time for mother, and unfavorable outcomes for baby. Therefore, it is important to develop evidence-based delivery room practices and protocols that minimize the need for C-sections. 
 
 ### II. BACKGROUND AND SIGNIFICANCE: ARRIVE TRIAL
